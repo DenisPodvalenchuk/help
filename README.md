@@ -6,5 +6,7 @@
 2. [Файл 2: Explorer (simply).py](https://github.com/DenisPodvalenchuk/help/blob/main/Explorer%20(simply).py) | Файл написан для обычного Python. Писал в MSCode. Закинул туда туже функцию что в разработал в первом файле и все.
 3. [Файл 3: Explorer (HARD).py](https://github.com/DenisPodvalenchuk/help/blob/main/Explorer%20(HARD).py) | Файл написан для обычного Python. Писал в MSCode. Сложнее написание для GUI.
 
+В коде матрицу я считаю как 1, 2, 3... а не 0, 1, 2....
+
 Контакты:
 * Telegram: [@Denis_RUKom](https://t.me/Denis_RUKom)
