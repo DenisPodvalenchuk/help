@@ -16,6 +16,9 @@
 
 [Задача 3](https://github.com/DenisPodvalenchuk/help/blob/main/3.ipynb) | Найти максимальное значение элемента среди нечетных столбцов матрицы
 
+[Задача 4](https://github.com/DenisPodvalenchuk/help/blob/main/4.ipynb) | Найти максимальное значение элемента среди четных строк матрицы
+
+[Задача 5](https://github.com/DenisPodvalenchuk/help/blob/main/5.ipynb) | Найти максимальное значение элемента среди четных столбцов матрицы
 
 
 
