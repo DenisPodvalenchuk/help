@@ -8,11 +8,10 @@
 3. Перейдите в директорию, где находится ваш файл (cd C:\Users\YourName\Documents - для примера);
 4. Запустите ваш Python-скрипт (python 1.py - для примера).
 
-Матрица в примерах matrix = [[1, 2, 3],
-          [4, 5, 6],
-          [7, 8, 9]]
+Матрица в примерах matrix = [[1, 2, 3], [4, 5, 6], [7, 8, 9]]
 
 [Задача 1](https://github.com/DenisPodvalenchuk/help/blob/main/1.ipynb) | Найти max и min значения элемента матрицы
+
 [Задача 2](https://github.com/DenisPodvalenchuk/help/blob/main/2.ipynb) | Найти максимальное значение элемента среди нечетных строк матрицы
 
 
