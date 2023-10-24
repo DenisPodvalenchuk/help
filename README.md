@@ -10,15 +10,15 @@
 
 Матрица в примерах matrix = [[1, 2, 3], [4, 5, 6], [7, 8, 9]]
 
-[Задача 1](https://github.com/DenisPodvalenchuk/help/blob/main/1.ipynb) | Найти max и min значения элемента матрицы
+[Задача 1](https://github.com/DenisPodvalenchuk/help/blob/main/1.py) | Найти max и min значения элемента матрицы
 
-[Задача 2](https://github.com/DenisPodvalenchuk/help/blob/main/2.ipynb) | Найти максимальное значение элемента среди нечетных строк матрицы
+[Задача 2](https://github.com/DenisPodvalenchuk/help/blob/main/2.py) | Найти максимальное значение элемента среди нечетных строк матрицы
 
-[Задача 3](https://github.com/DenisPodvalenchuk/help/blob/main/3.ipynb) | Найти максимальное значение элемента среди нечетных столбцов матрицы
+[Задача 3](https://github.com/DenisPodvalenchuk/help/blob/main/3.py) | Найти максимальное значение элемента среди нечетных столбцов матрицы
 
-[Задача 4](https://github.com/DenisPodvalenchuk/help/blob/main/4.ipynb) | Найти максимальное значение элемента среди четных строк матрицы
+[Задача 4](https://github.com/DenisPodvalenchuk/help/blob/main/4.py) | Найти максимальное значение элемента среди четных строк матрицы
 
-[Задача 5](https://github.com/DenisPodvalenchuk/help/blob/main/5.ipynb) | Найти максимальное значение элемента среди четных столбцов матрицы
+[Задача 5](https://github.com/DenisPodvalenchuk/help/blob/main/5.py) | Найти максимальное значение элемента среди четных столбцов матрицы
 
 [Задача 6](https://github.com/DenisPodvalenchuk/help/blob/main/6.py) | Найти минимальное значение элемента среди нечетных строк матрицы.
 
